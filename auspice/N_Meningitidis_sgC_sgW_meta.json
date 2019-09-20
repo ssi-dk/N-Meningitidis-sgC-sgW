@@ -8,6 +8,22 @@
     }
   },
   "color_options": {
+    "BEAST_data": {
+      "color_map": [
+        [
+          "not_in_BEAST",
+          "#ca0020"
+        ],
+        [
+          "in_BEAST",
+          "#0571b0"
+        ]
+      ],
+      "key": "BEAST_data",
+      "legendTitle": "BEAST data",
+      "menuItem": "BEAST data",
+      "type": "discrete"
+    },
     "cluster": {
       "color_map": [
         [
@@ -366,6 +382,10 @@
         [
           "W_Y",
           "#FBCEB1"
+        ],
+        [
+          "NT",
+          "#999999"
         ]
       ],
       "key": "sg_in_silico",
@@ -381,7 +401,8 @@
     "continent",
     "country",
     "authors",
-    "cluster"
+    "cluster",
+    "BEAST_data"
   ],
   "geo": {
     "country": {
@@ -600,6 +621,6 @@
     "map"
   ],
   "title": "SgC and SgW N. meningitidis",
-  "updated": "21 Aug 2019",
-  "virus_count": 3282
+  "updated": "20 Sep 2019",
+  "virus_count": 3276
 }
