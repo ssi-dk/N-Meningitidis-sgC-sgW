@@ -12,32 +12,16 @@
       "color_map": [
         [
           "not_in_BEAST",
-          "#C0C0C0"
+          "#ca0020"
         ],
         [
           "in_BEAST",
-          "#ca0020"
+          "#0571b0"
         ]
       ],
       "key": "BEAST_data",
       "legendTitle": "BEAST data",
       "menuItem": "BEAST data",
-      "type": "discrete"
-    },
-    "GWAS_sample": {
-      "color_map": [
-        [
-          "not_in_GWAS",
-          "#C0C0C0"
-        ],
-        [
-          "in_GWAS",
-          "#ca0020"
-        ]
-      ],
-      "key": "GWAS_sample",
-      "legendTitle": "GWAS sample",
-      "menuItem": "GWAS sample",
       "type": "discrete"
     },
     "cluster": {
@@ -61,6 +45,18 @@
         [
           "5",
           "#ff7f00"
+        ],
+        [
+          "6",
+          "#ffff33"
+        ],
+        [
+          "7",
+          "#a65628"
+        ],
+        [
+          "8",
+          "#f781bf"
         ],
         [
           "singleton",
@@ -325,31 +321,15 @@
       "menuItem": "date",
       "type": "continuous"
     },
-    "rapid_radiation_clone": {
-      "color_map": [
-        [
-          "other",
-          "#C0C0C0"
-        ],
-        [
-          "rapid_rad_clone",
-          "#ca0020"
-        ]
-      ],
-      "key": "rapid_radiation_clone",
-      "legendTitle": "Rapid radiating clone",
-      "menuItem": "Rapid radiating clone",
-      "type": "discrete"
-    },
     "serogroup": {
       "color_map": [
         [
           "C",
-          "#0571b0"
+          "#ca0020"
         ],
         [
           "W",
-          "#ca0020"
+          "#0571b0"
         ]
       ],
       "key": "serogroup",
@@ -422,9 +402,7 @@
     "country",
     "authors",
     "cluster",
-    "BEAST_data",
-    "GWAS_sample",
-    "rapid_radiation_clone"
+    "BEAST_data"
   ],
   "geo": {
     "country": {
@@ -642,7 +620,7 @@
     "tree",
     "map"
   ],
-  "title": "N. meningitidis CC11 SgC & SgW",
-  "updated": "04 Oct 2019",
+  "title": "SgC and SgW N. meningitidis",
+  "updated": "20 Sep 2019",
   "virus_count": 3276
 }
