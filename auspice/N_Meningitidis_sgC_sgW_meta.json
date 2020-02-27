@@ -7,6 +7,9 @@
       "n": 60
     }
   },
+  "annotations": {
+    "nuc": {}
+  },
   "color_options": {
     "BEAST_data": {
       "color_map": [
@@ -623,10 +626,6 @@
       "USA": {
         "latitude": 37.09024,
         "longitude": -95.712891
-      },
-      "Unknown": {
-        "latitude": 0.0,
-        "longitude": 0.0
       },
       "Venezuela": {
         "latitude": 6.42375,
