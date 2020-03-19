@@ -1,0 +1,119 @@
+serogroup	C	#0571b0
+serogroup	W	#ca0020
+serogroup	TBD	#C0C0C0
+
+rapid_radiation_clone	No	#C0C0C0
+rapid_radiation_clone	Yes	#ca0020
+
+BEAST_data	No	#C0C0C0
+BEAST_data	Yes	#ca0020
+
+GWAS_sample	No	#C0C0C0
+GWAS_sample	Yes	#ca0020
+
+author	PubMLST	#C0C0C0
+author	Statens Serum Institut (SSI)	#ca0020
+
+sg_in_silico	none	#999999
+sg_in_silico	A_W	#4daf4a
+sg_in_silico	B_W	#984ea3
+sg_in_silico	C	#e41a1c
+sg_in_silico	C_C	#ff7f00
+sg_in_silico	C_W	#a65628
+sg_in_silico	ERR	#f781bf
+sg_in_silico	W	#377eb8
+sg_in_silico	W_W_W	#E52B50
+sg_in_silico	W_W_W_W_W	#FFBF00
+sg_in_silico	W_X	#9966CC
+sg_in_silico	W_Y	#FBCEB1
+sg_in_silico	_	#7FFFD4
+sg_in_silico	NT	#999999
+
+cluster	1	#e41a1c
+cluster	2	#377eb8
+cluster	3	#4daf4a
+cluster	4	#984ea3
+cluster	5	#ff7f00
+cluster	6	#ffff33
+cluster	7	#a65628
+cluster	8	#f781bf
+cluster	singleton	#C0C0C0
+
+continent	Europe	#e41a1c
+continent	Africa	#377eb8
+continent	South America	#4daf4a
+continent	North America	#984ea3
+continent	Caribbean	#ff7f00
+continent	Asia	#ffff33
+continent	Unknown	#C0C0C0
+
+country	UK	#e41a1c
+country	France	#377eb8
+country	South Africa	#4daf4a
+country	Burkina Faso	#984ea3
+country	Italy	#ff7f00
+country	Canada	#a65628
+country	Sweden	#f781bf
+country	The Netherlands	#999999
+country	Ireland	#E52B50
+country	Togo	#FFBF00
+country	Denmark	#9966CC
+country	Czech Republic	#FBCEB1
+country	Germany	#7FFFD4
+country	Niger	#007FFF
+country	Mali	#89CFF0
+country	USA	#F5F5DC
+country	Benin	#000000
+country	Switzerland	#0000FF
+country	Central African Republic	#0095B6
+country	Finland	#8A2BE2
+country	Iceland	#DE5D83
+country	Chad	#964B00
+country	China	#800020
+country	Cameroon	#702963
+country	Spain	#960018
+country	Greece	#DE3163
+country	Russia	#007BA7
+country	Guinea	#F7E7CE
+country	Madagascar	#7FFF00
+country	Turkey	#7B3F00
+country	Malta	#0047AB
+country	Slovenia	#6F4E37
+country	Saudi Arabia	#B87333
+country	Chile	#FF7F50
+country	Ivory Coast	#DC143C
+country	Algeria	#00FFFF
+country	Senegal	#EDC9Af
+country	Brazil	#7DF9FF
+country	Dominican Republic	#50C878
+country	Portugal	#00FF3F
+country	Ghana	#FFD700
+country	Israel	#808080
+country	Morocco	#008000
+country	Japan	#3FFF00
+country	Mauritius	#4B0082
+country	Venezuela	#FFFFF0
+country	Croatia	#00A86B
+country	Poland	#29AB87
+country	Djibouti	#B57EDC
+country	Argentina	#FFF700
+country	Belarus	#960018
+country	Bangladesh	#DE3163
+country	Norway	#007BA7
+country	Mexico	#F7E7CE
+
+Lineages_Eriksson_2018	Hajj	#e41a1c
+Lineages_Eriksson_2018	Hajj sub-lineage	#377eb8
+Lineages_Eriksson_2018	Novel UK 2013 lineage	#4daf4a
+Lineages_Eriksson_2018	Original UK lineage	#984ea3
+Lineages_Eriksson_2018	Other	#ff7f00
+Lineages_Eriksson_2018	ND	#C0C0C0
+
+Lineages_Lucidarme_2015	Anglo-French Hajj strain	#e41a1c
+Lineages_Lucidarme_2015	Burkina Faso/North African isolates	#377eb8
+Lineages_Lucidarme_2015	Endemic South African strain	#4daf4a
+Lineages_Lucidarme_2015	lineage 11.1 distal region, other	#984ea3
+Lineages_Lucidarme_2015	lineage 11.1 intermediate region	#ff7f00
+Lineages_Lucidarme_2015	lineage 11.1 proximal region	#ffff33
+Lineages_Lucidarme_2015	South American/UK strain	#a65628
+Lineages_Lucidarme_2015	ND	#C0C0C0
