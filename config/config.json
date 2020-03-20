@@ -3,7 +3,7 @@
   "maintainers": [
     {"name": "Raphael N. Sieber, Statens Serum Institut, Denmark", "url": "mailto:rasi@ssi.dk"}
   ],
-  "build_url": "http://nextstrain.org/community/ssi-dk/N_Meningitidis_sgC_sgW",
+  "build_url": "http://nextstrain.org/community/ssi-dk/N_Meningitidis_CC11_SgC_SgW",
   "colorings": [
     {
       "key": "serogroup",
