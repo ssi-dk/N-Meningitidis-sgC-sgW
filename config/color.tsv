@@ -1,9 +1,9 @@
 serogroup	C	#0571b0
 serogroup	W	#ca0020
-serogroup	TBD	#C0C0C0
+serogroup	NT	#C0C0C0
 
-rapid_radiation_clone	No	#C0C0C0
-rapid_radiation_clone	Yes	#ca0020
+2013_strain	No	#C0C0C0
+2013_strain	Yes	#ca0020
 
 BEAST_data	No	#C0C0C0
 BEAST_data	Yes	#ca0020
@@ -117,3 +117,6 @@ Lineages_Lucidarme_2015	lineage 11.1 intermediate region	#ff7f00
 Lineages_Lucidarme_2015	lineage 11.1 proximal region	#ffff33
 Lineages_Lucidarme_2015	South American/UK strain	#a65628
 Lineages_Lucidarme_2015	ND	#C0C0C0
+
+Lineages_Knol_2017	ST-11 complex/ET-37 complex	#e41a1c
+Lineages_Knol_2017	ND	#C0C0C0

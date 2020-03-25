@@ -1,9 +1,9 @@
 {
   "title": "N. meningitidis CC11 SgC & SgW",
   "maintainers": [
-    {"name": "Raphael N. Sieber, Statens Serum Institut, Denmark", "url": "mailto:rasi@ssi.dk"}
+    {"name": "Raphael Sieber, Statens Serum Institut (SSI), Denmark", "url": "mailto:rasi@ssi.dk"}
   ],
-  "build_url": "http://nextstrain.org/community/ssi-dk/N_Meningitidis_CC11_SgC_SgW",
+  "build_url": "https://nextstrain.org/community/ssi-dk/N_Meningitidis_CC11_SgC_SgW",
   "colorings": [
     {
       "key": "serogroup",
@@ -36,8 +36,8 @@
       "type": "categorical"
     },
     {
-      "key": "rapid_radiation_clone",
-      "title": "Rapid radiating clone",
+      "key": "2013_strain",
+      "title": "2013 Strain",
       "type": "categorical"
     },
     {
@@ -54,6 +54,11 @@
       "key": "Lineages_Lucidarme_2015",
       "title": "Lineages according to Lucidarme et al. (2015)",
       "type": "categorical"
+    },
+    {
+      "key": "Lineages_Knol_2017",
+      "title": "Lineages according to Knol et al. (2017)",
+      "type": "categorical"
     }
   ],
   "geo_resolutions": [
@@ -69,13 +74,14 @@
     "cluster",
     "GWAS_sample",
     "BEAST_data",
-    "rapid_radiation_clone",
+    "2013_strain",
     "Lineages_Eriksson_2018",
     "Lineages_Lucidarme_2015",
+    "Lineages_Knol_2017",
     "author"
   ],
   "display_defaults": {
-    "color_by": "cluster",
+    "color_by": "serogroup",
     "geo_resolution": "country",
     "distance_measure": "num_date",
     "map_triplicate": true

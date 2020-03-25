@@ -120,7 +120,7 @@ rule traits:
         "results/traits.json"
         # rules.all.input.tmp_out
     params:
-        traits = 'serogroup country continent cluster rapid_radiation_clone Lineages_Eriksson_2018 Lineages_Lucidarme_2015'
+        traits = 'serogroup country continent cluster 2013_strain Lineages_Eriksson_2018 Lineages_Lucidarme_2015 Lineages_Knol_2017'
     shell:
         """
         augur traits --tree {input.tree} \
